@@ -1,0 +1,15 @@
+{
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "python-envs.pythonProjects": [
+        {
+            "path": "src/Kouta",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        },
+        {
+            "path": "src",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
